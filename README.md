@@ -3,12 +3,12 @@
 2017.07.11 talk featuring Una on Sass Pixel Art
 
 ## Notes
-- Using matrices to develop a blueprint for the pixel art
+- Uses matrices to develop a blueprint for the pixel art
 - Uses embedded for loops to generate
-- Use `map-get` to obtain color values
-- If there is a comma at the end of the generated string, CSS won't know what to do with it
-- Created a mixin to allow you to replicate the pixel art generation
-- Use `each` loop to generate class
+- Uses `map-get` to obtain color values
+- If there is a comma at the end of the generated string for box shadow (?), CSS won't know what to do with it
+- Creates a mixin for a reusable function for generating pixel art
+- Use `each` loop to generate classes instead of manually defining classes
 
 ## Resources
 
