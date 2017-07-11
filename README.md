@@ -2,10 +2,6 @@
 
 2017.07.11 talk featuring Una on Sass Pixel Art
 
-- [Blog](https://una.im/#💁)
-- [Twitter](https://twitter.com/una)
-- [CodePen](https://codepen.io/una/)
-
 ## Notes
 - Using matrices to develop a blueprint for the pixel art
 - Uses embedded for loops to generate
@@ -19,4 +15,10 @@
 - [2dwillneverdie](http://2dwillneverdie.com/intro/) site that talks about the history of pixel art
 - [Mario Pixel Art](https://codepen.io/una/pen/oXXRgg?html-preprocessor=slim) Una's Mario Themed Pixel Art
 - [Sass Pixel Art](http://una.im/sass-pixel-art) Blog post by Una on Sass Pixel Art
+
+## More From Una
+
+- [Blog](https://una.im/#💁)
+- [Twitter](https://twitter.com/una)
+- [CodePen](https://codepen.io/una/)
 
